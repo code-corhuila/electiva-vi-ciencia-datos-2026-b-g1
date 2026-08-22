@@ -1,3 +1,6 @@
+CONFIG
+FULL_NAME: GENER STIVEN VALENCIA CASTRO
+GITHUB_USER: escribe-aquí-tu-usuario
 # Electiva VI - Ciencia de Datos - 2026-B
 
 Repositorio de clase - Corporacion Universitaria del Huila (CORHUILA).
