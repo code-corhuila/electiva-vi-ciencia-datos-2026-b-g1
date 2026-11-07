@@ -1,0 +1,51 @@
+id_lectura,codigo_rfid,producto,categoria,fecha_escaneo,hora_escaneo,lector_rfid,ubicacion,detectado_primer_intento,intentos_lectura,estado_lectura,precision_inventario
+1,RFID001,Funda iPhone 15,Carcasas,2026-09-01,08:15,LectorA,Estante A,Si,1,Correcta,92.5
+2,RFID002,Funda Samsung S24,Carcasas,2026-09-01,08:16,LectorA,Estante A,No,3,Correcta,92.5
+3,RFID003,Cargador USB-C,Accesorios,2026-09-01,08:17,LectorB,Estante B,Si,1,Correcta,92.5
+4,RFID004,Protector Pantalla,Accesorios,2026-09-01,08:18,LectorA,Estante B,No,2,Correcta,92.5
+5,RFID005,Power Bank,Accesorios,2026-09-01,08:19,LectorB,Estante C,Si,1,Correcta,92.5
+6,RFID006,Funda Xiaomi 14,Carcasas,2026/09/01,08:20,LectorA,Estante A,No,4,Error,92.5
+7,RFID007,Cable USB-C,Accesorios,,08:21,LectorB,Estante C,Si,1,Correcta,92.5
+8,RFID008,Audifonos Bluetooth,Electronica,2026-09-01,08:22,LectorA,Estante D,No,5,Error,92.5
+9,RFID009,Soporte Celular,Accesorios,2026-09-01,08:23,LectorA,Estante B,Si,1,Correcta,92.5
+10,RFID010,Funda Motorola,Carcasas,2026-09-01,08:24,LectorB,Estante A,No,3,Correcta,92.5
+11,RFID010,Funda Motorola,Carcasas,2026-09-01,08:24,LectorB,Estante A,No,3,Correcta,92.5
+12,,Protector Cámara,Accesorios,2026-09-01,08:25,LectorA,Estante C,Si,1,Correcta,92.5
+13,RFID012,Funda iPhone 14,Carcasas,2026-09-01,08:26,LectorA,Estante A,No,,Correcta,92.5
+14,RFID013,Cargador Inalambrico,Electronica,2026-09-01,08:27,LectorB,Estante D,Si,1,Correcta,92.5
+15,RFID014,Audifonos Bluetooth,Electronica,2026-09-01,08:28,LectorB,Estante D,No,4,Error,92.5
+16,RFID015,Funda Huawei,Carcasas,2026-09-01,08:29,LectorA,Estante A,Si,1,Correcta,92.5
+17,RFID016,Cable Lightning,Accesorios,2026-09-01,08:30,LectorB,Estante C,No,2,Correcta,92.5
+18,RFID017,Adaptador USB,Accesorios,2026-09-01,08:31,LectorA,Estante C,Si,1,Correcta,92.5
+19,RFID018,Funda Redmi Note,Carcasas,2026-09-01,08:32,LectorA,Estante A,No,3,Error,92.5
+20,RFID019,Power Bank,Accesorios,2026-09-01,08:33,LectorB,Estante C,Si,1,Correcta,92.5
+21,RFID020,Funda iPhone 13,Carcasas,2026-09-02,08:34,LectorA,Estante A,Si,1,Correcta,93.1
+22,RFID021,Funda Samsung A55,Carcasas,2026-09-02,08:35,LectorB,Estante A,No,2,Correcta,92.9
+23,RFID022,Cable USB-C,Accesorios,2026-09-02,08:36,LectorA,Estante B,Si,1,Correcta,94.0
+24,RFID023,Power Bank,Accesorios,2026-09-02,08:37,LectorB,Estante C,Si,1,Correcta,95.0
+25,RFID024,Audifonos Bluetooth,Electronica,2026-09-02,08:38,LectorA,Estante D,No,3,Error,90.2
+26,RFID025,Funda Oppo Reno,Carcasas,2026-09-02,08:39,LectorA,Estante A,Si,1,Correcta,94.6
+27,RFID026,Cargador USB-C,Electronica,2026-09-02,08:40,LectorB,Estante D,Si,1,Correcta,95.1
+28,RFID027,Protector Pantalla,Accesorios,2026-09-02,08:41,LectorA,Estante B,No,2,Correcta,93.2
+29,RFID028,Funda Xiaomi 13,Carcasas,2026-09-02,08:42,LectorA,Estante A,Si,1,Correcta,94.8
+30,RFID029,Adaptador USB,Accesorios,2026-09-02,08:43,LectorB,Estante C,Si,1,Correcta,95.0
+31,RFID030,Funda Redmi Note 13,Carcasas,2026-09-02,08:44,LectorA,Estante A,No,2,Correcta,92.1
+32,RFID031,Cable Lightning,Accesorios,2026-09-02,08:45,LectorB,Estante C,Si,1,Correcta,93.4
+33,RFID032,Cargador Inalambrico,Electronica,2026-09-02,08:46,LectorA,Estante D,Si,1,Correcta,94.3
+34,RFID033,Protector Cámara,Accesorios,2026-09-02,08:47,LectorB,Estante B,No,3,Error,89.1
+35,RFID034,Funda Honor X9,Carcasas,2026-09-02,08:48,LectorA,Estante A,Si,1,Correcta,95.0
+36,RFID035,Power Bank,Accesorios,2026-09-02,08:49,LectorB,Estante C,Si,1,Correcta,93.8
+37,RFID036,Audifonos Bluetooth,Electronica,2026-09-02,08:50,LectorA,Estante D,No,4,Error,88.7
+38,RFID037,Funda Samsung A35,Carcasas,2026-09-02,08:51,LectorA,Estante A,Si,1,Correcta,94.2
+39,RFID038,Cable USB-C,Accesorios,2026-09-02,08:52,LectorB,Estante B,Si,1,Correcta,93.5
+40,RFID039,Soporte Celular,Accesorios,2026-09-02,08:53,LectorA,Estante C,No,2,Correcta,92.4
+41,RFID040,Funda iPhone 15 Pro,Carcasas,2026-09-03,08:54,LectorA,Estante A,Si,1,Correcta,95.4
+42,RFID041,Cargador USB-C,Electronica,2026-09-03,08:55,LectorB,Estante D,Si,1,Correcta,94.5
+43,RFID042,Protector Pantalla,Accesorios,2026-09-03,08:56,LectorA,Estante B,Si,1,Correcta,93.7
+44,RFID043,Funda Samsung S23,Carcasas,2026-09-03,08:57,LectorA,Estante A,No,3,Correcta,91.8
+45,RFID044,Adaptador USB,Accesorios,2026/09/03,08:58,LectorB,Estante C,Si,1,Correcta,94.8
+46,RFID045,Audifonos Bluetooth,Electronica,2026-09-03,08:59,LectorA,Estante D,No,4,Error,89.5
+47,,Funda Huawei,Carcasas,2026-09-03,09:00,LectorA,Estante A,Si,1,Correcta,94.6
+48,RFID047,Power Bank,Accesorios,,09:01,LectorB,Estante C,Si,1,Correcta,94.2
+49,RFID048,Cable Lightning,Accesorios,2026-09-03,09:02,LectorA,Estante B,No,2,Correcta,92.6
+50,RFID049,Funda Xiaomi 14,Carcasas,2026-09-03,09:03,LectorA,Estante A,Si,1,Correcta,95.0
