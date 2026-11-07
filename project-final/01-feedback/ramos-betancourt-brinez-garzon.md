@@ -56,4 +56,49 @@ Tengan listas las razones de cada decisión de limpieza. Por ejemplo, por qué e
 - Diligenciar el FO-IV-159 con los dos integrantes.
 - Asegurar que los aportes de ambos integrantes queden en evidencia.
 
+## Lista para llegar al 100 %
+
+La entrega debe quedar en «Cumple» en todos los puntos. Se revisó lo publicado en GitHub hasta el 7 de noviembre. «Por verificar» significa que debe comprobarse ejecutándolo. La sección Entrega se revisa en Moodle el 14 de noviembre.
+
+| Sección | Requisito de la guía | Estado |
+|---|---|---|
+| Ficha | Integrantes con nombre completo | Cumple |
+| Ficha | Empresa, tipo y a qué se dedica | Cumple |
+| Ficha | Problema: qué decisión se toma mal hoy | Cumple |
+| Ficha | Pregunta concreta, medible y con tiempo | Cumple |
+| Ficha | KPI principal con fórmula y dos de apoyo | Cumple |
+| Ficha | Fuentes de datos y formato | Cumple |
+| Datos | Tabla principal con 1.000 filas o más | Cumple |
+| Datos | Tres clasificaciones o más | Cumple |
+| Datos | 12 meses de historia o más | Cumple |
+| Datos | Generación y reglas documentadas | Cumple |
+| Datos | Tres problemas de calidad o más a propósito | Cumple |
+| Datos | Sin datos de talleres, parcial o clase | Cumple |
+| Cuaderno | Parte 0: Overview en inglés, seis oraciones o más | Parcial |
+| Cuaderno | Parte 2: carga, tamaño y muestra | Cumple |
+| Cuaderno | Parte 3: diagnóstico con cifras | Cumple |
+| Cuaderno | Parte 4: tres limpiezas con antes, después y motivo | Cumple |
+| Cuaderno | Parte 4: bitácora de cambios | Cumple |
+| Cuaderno | Parte 5: diccionario y grano | Cumple |
+| Cuaderno | Parte 5: carga en SQLite | Cumple |
+| Cuaderno | Parte 5: consulta con GROUP BY | Cumple |
+| Cuaderno | Parte 5: consulta con JOIN | Cumple |
+| Cuaderno | Parte 5: consulta con filtro de fechas | Cumple |
+| Cuaderno | Parte 5: interpretación de cada consulta | Parcial |
+| Cuaderno | Parte 6: KPI por mes | Falta |
+| Cuaderno | Parte 6: promedio móvil | Falta |
+| Cuaderno | Parte 6: comparación entre periodos | Falta |
+| Cuaderno | Parte 7: fila de KPI y cuatro gráficos o más | Falta |
+| Cuaderno | Parte 7: títulos que dicen el hallazgo | Falta |
+| Cuaderno | Parte 8: cifras de control | Falta |
+| Cuaderno | Parte 9: historia y recomendación (qué, quién, cuándo) | Falta |
+| Cuaderno | Corre con «Reiniciar y ejecutar todo» | Por verificar |
+| Entrega | FO-IV-159 en Excel, completo | Falta |
+| Entrega | Cinco referencias o más, entre ellas Torres et al. y pandas | Falta |
+| Entrega | Anexo 1: capturas y fotos de la sustentación | Falta |
+| Entrega | Anexo 2: .ipynb ejecutado y datos | Falta |
+| Entrega | Anexo 2: documento técnico en PDF, 10 páginas o menos | Falta |
+| Entrega | Anexo 2: presentación de la sustentación | Falta |
+| Entrega | Envío en c3-project de Moodle | Falta |
+
 **Entrega:** sábado 14 de noviembre a las 23:59, solo en c3-project de Moodle (FO-IV-159 y ZIP de anexos), un envío por pareja. El avance en GitHub no reemplaza esa entrega.
